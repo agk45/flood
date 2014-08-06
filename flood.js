@@ -1,4 +1,5 @@
 var colors0 = ['#FF6C00', '#FFA500', '#1047A9', '#009E8E','#6A0C62'];
+// next: different color schemes
 
 function initial_table(size) {
 	// creates the initial game table, with specified size (table is square)
